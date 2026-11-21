@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+.trae/
+
+# 日志与临时探针产物
+*.log
+_probe_out/
+_pro_test_work/
+
+# 运行时数据（含本机路径与真实 API Key，不入库）
+AppData/
